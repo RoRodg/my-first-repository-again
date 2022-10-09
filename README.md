@@ -9,3 +9,4 @@ Important steps for git workflow.
 5. Commit changes with git commit -m ""
 6. Review change with git log.
 
+HEY THIS IS ALL NEW TEXT
